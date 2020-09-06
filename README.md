@@ -1,10 +1,3 @@
-# Cmpe 250 Assignment 2
-
-* **Deadline:** 29.10.2019 Tuesday @23:00, very strict.
-* For your questions on the project,
-please contact with your student teaching assistant
-Ahmet Gedemenli via [afgedemenli@gmail.com](mailto:afgedemenli@gmail.com).
-
 ## Description
 A restaurant is having some trouble with organization issues. Each incoming customer group must be assigned to a table by considering the following constraints:
 
